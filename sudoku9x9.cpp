@@ -1,4 +1,10 @@
-
+//
+//  sudoku9x9.cpp
+//  Sudoku
+//
+//  Created by Juan Parra on 4/17/16.
+//  Copyright © 2016 Juan Parra. All rights reserved.
+//
 #include <iostream>
 #include "sudoku.h"
 
